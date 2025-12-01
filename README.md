@@ -53,15 +53,3 @@ This repository contains two main Jupyter Notebooks that separate the Explorator
 4.  **Analysis:** Conduct and report a formal **Feature Importance** analysis to explain which features are most critical to the Gradient Boosting model's predictions.
 
 ***
-
-## Setup and Dependencies
-
-To run the notebooks, you will need the following Python libraries:
-
-```bash
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-kagglehub
