@@ -48,8 +48,7 @@ This repository contains two main Jupyter Notebooks that separate the Explorator
 ### Future Improvements
 
 1.  **Optimization:** Implement systematic **Hyperparameter Tuning (e.g., Grid Search)** and **Classification Threshold Optimization** to maximize the F1 score.
-2.  **Advanced Data Handling:** Apply techniques like setting **Class Weights** or using **SMOTE** (Synthetic Minority Over-sampling Technique) to the training phase to address the imbalance directly.
-3.  **Feature Engineering:** The most critical step is to derive **non-leaky signals** from the previously removed variables (like `Recommendations`) to leverage their predictive power without compromising model validity.
-4.  **Analysis:** Conduct and report a formal **Feature Importance** analysis to explain which features are most critical to the Gradient Boosting model's predictions.
+2.  **Feature Engineering:** The most critical step is to derive **non-leaky signals** from the previously removed variables (like `Recommendations`) to leverage their predictive power without compromising model validity.
+3.  **Analysis:** Conduct and report a formal **Feature Importance** analysis to explain which features are most critical to the Gradient Boosting model's predictions.
 
 ***
